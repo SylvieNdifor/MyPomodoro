@@ -37,4 +37,7 @@ A label displays the number of completed Pomodoros, and it increases by one afte
 
 
  # CONTRIBUTIONS
- #
+ Thank you for considering contributing to MyPomodoro! All contributions from the community to help improve and enhance this project are welcomed. Whether you're fixing a bug, adding a feature, or improving documentation, your contributions are highly appreciated.
+For new features or enhancements. Please open an issue to discuss your ideas.
+If you encounter a bug, please open an issue to report it.
+

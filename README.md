@@ -33,7 +33,8 @@ A label displays the number of completed Pomodoros, and it increases by one afte
  # VIRTUAL
  Below is a visual representation ofwhat the project is about.
  
-<img width="1440" alt="Screenshot 2023-10-05 at 12 08 31 AM" src="https://github.com/SylvieNdifor/MyPomodoro/assets/147012281/72727217-7296-4a7b-a13b-92f228de19a5">
+![Screenshot 2023-10-05 at 12 08 31 AM](https://github.com/SylvieNdifor/MyPomodoro/assets/147012281/af381ab2-5237-4f2e-86fc-4ccdfdaafeff)
+
 
 
  # CONTRIBUTIONS

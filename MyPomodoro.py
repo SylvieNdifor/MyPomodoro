@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 import threading
 import time
-from playsound import playsound
+
 
 # Functionality
 
@@ -63,7 +63,7 @@ def start_timer():
         if not stop or skip:
             notebook.select(0)
             start_timer()
-        # play short sound when timer is done
+        
 
 
 
